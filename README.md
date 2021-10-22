@@ -1,2 +1,2 @@
 # DoorsOS
-An OS
+An OS Based On The Linux Kernel 
